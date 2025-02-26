@@ -4,14 +4,13 @@
 I am doing this analysis for experience gain and to improve my skills and also for writing an analysis presentation
 
 ## PROBLEM STATEMENT
-Kaggle is a site for data analyst it allows people to upload data sets and allows others to download they also host competitions on who can tell a story through their analysis
-so they also collect their won data through survey the people who use the site and these data can also be used to further understand the data landscape
+This dataset contains job listings for data science positions, providing a comprehensive view of the data science job market. The dataset includes essential fields such as job title, company, location, salary range, and required skills, helping users analyze trends in data science employment.
 i will be using the dataset i got to show the following
 - size of the company most workers work for
 - jobs that responders partake in
 - level in their jobs
 ## DATA SOURCING
-The data was made by kaggle collecting a survey of people who worked in Machine Learning & Data Science Survey from 2022. the link to the data set can be found [Here](www.)
+The data was made by kaggle collecting a survey of people who worked in Machine Learning & Data Science Survey from 2022. the link to the data set can be found [Here](https://www.kaggle.com/datasets/brsahan/data-science-job)
 ## SKILLS DEMONSTRATED
 For this project i used 
 
