@@ -10,7 +10,7 @@ i will be using the dataset i got to show the following
 - jobs that responders partake in
 - level in their jobs
 ## DATA SOURCING
-The data was made by kaggle collecting a survey of people who worked in Machine Learning & Data Science Survey from 2022. the link to the data set can be found [Here](https://www.kaggle.com/datasets/brsahan/data-science-job)
+The data was made by BATUHAN ŞAHAN and uploaded to kaggle. The link to the data set can be found [Here](https://www.kaggle.com/datasets/brsahan/data-science-job)
 ## SKILLS DEMONSTRATED
 For this project i used 
 
