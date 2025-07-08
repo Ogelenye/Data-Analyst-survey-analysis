@@ -43,3 +43,9 @@ Here we can see that most people work in Data Science followed by machine learli
 
 Here we can see that most responders are from senior level workers, however there isnt a lot to seperate between the entry level and mid level so we can say that mthe responders really are available at every level in the corporate ladder 
 ## RECOMMENDATIONS AND CONCLUSION
+
+After the analysis i can conclude that:
+
+* The responses mostly work at small or medium size companies
+* Most of the responses work in data sciences followed by machine learning which was really an indicator for things to come
+* There where a lot of senior level responses so it seems like the data sciences had lot of upward mobility 
